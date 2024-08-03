@@ -18,5 +18,5 @@ Use the application interface to register and recognize individuals based on the
 - **Update BG**: Click to update the background frame for motion detection.
 ## Note
 - Create a folder named "gei" in the working directory for storing the "Gait Energy Images."
-- Save the xml file with ".ui" extension is the working directory.
-- Ensure that the file name is accurately specified in the src.
+- Save the xml file with ".ui" extension in the working directory.
+- Ensure that the ui file name is accurately specified in the src.
